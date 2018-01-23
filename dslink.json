@@ -1,0 +1,12 @@
+{
+  "name": "dslink-python-witts",
+  "version": "0.1.0",
+  "description": "DSLink for WITTSXML",
+  "main": "src/witts.py",
+  "engines": {
+    "python": ">=2.7.0"
+  },
+  "getDependencies": [
+    "python setup.py install"
+  ]
+}
