@@ -10,7 +10,5 @@ setup(
     license="Apache 2.0",
     install_requires=[
         "dslink == 0.6.16",
-        "socket",
-        "re"
-    ]
+        ]
 )
